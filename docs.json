@@ -80,8 +80,8 @@
     }
   },
   "logo": {
-    "light": "/logo/bhte_text_light.svg",
-    "dark": "/logo/bhte_text_dark.svg"
+    "light": "/logo/bhte_text_icon_light.svg",
+    "dark": "/logo/bhte_text_icon_dark.svg"
   },
   "navbar": {
     "links": []

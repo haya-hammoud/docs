@@ -12,19 +12,39 @@
     "tabs": [
       {
         "tab": "Home",
-        "pages": ["pages/home"]
+        "pages": [
+          "pages/home",
+          "pages/services",
+          "pages/about",
+          "pages/contact"
+        ]
       },
       {
         "tab": "Services",
-        "pages": ["pages/services"]
+        "pages": [
+          "pages/services",
+          "pages/home",
+          "pages/about",
+          "pages/contact"
+        ]
       },
       {
         "tab": "About Us",
-        "pages": ["pages/about"]
+        "pages": [
+          "pages/about",
+          "pages/home",
+          "pages/services",
+          "pages/contact"
+        ]
       },
       {
         "tab": "Contact Us",
-        "pages": ["pages/contact"]
+        "pages": [
+          "pages/contact",
+          "pages/home",
+          "pages/services",
+          "pages/about"
+        ]
       }
     ],
     "global": {

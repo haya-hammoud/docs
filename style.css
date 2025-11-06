@@ -18,6 +18,11 @@
             margin-top: 1rem !important;
             margin-left: 0rem !important;
         }
+        /* Deployed version have different DOM */
+        .contents > img {
+            margin-top: 1rem !important;
+            margin-left: 0rem !important;
+        }
 
         .bhte-text{
             margin-left: 0rem;

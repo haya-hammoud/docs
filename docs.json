@@ -9,44 +9,8 @@
   },
   "favicon": "/bhte_icon.svg",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Home",
-        "pages": [
-          "pages/home",
-          "pages/services",
-          "pages/about",
-          "pages/contact"
-        ]
-      },
-      {
-        "tab": "Services",
-        "pages": [
-          "pages/services",
-          "pages/home",
-          "pages/about",
-          "pages/contact"
-        ]
-      },
-      {
-        "tab": "About Us",
-        "pages": [
-          "pages/about",
-          "pages/home",
-          "pages/services",
-          "pages/contact"
-        ]
-      },
-      {
-        "tab": "Contact Us",
-        "pages": [
-          "pages/contact",
-          "pages/home",
-          "pages/services",
-          "pages/about"
-        ]
-      }
-    ],
+    "pages": ["pages/home", "pages/services", "pages/about", "pages/contact"],
+
     "global": {
       "anchors": []
     }

@@ -1,0 +1,27 @@
+    button[aria-label="More actions"] {
+      display: none;
+    }
+
+
+    .bhte-text{
+        max-width: 400px;
+        text-align: center;
+        font-weight: bold;
+        font-size: 2rem;
+        margin-top: -1rem;
+        margin-left: 3.8rem;
+    }
+
+    @media (max-width: 640px) {
+        /* Styles for screens up to 768px wide (e.g., mobile devices) */
+        span > img {
+            margin-top: 1rem !important;
+            margin-left: 0rem !important;
+        }
+
+        .bhte-text{
+            margin-left: 0rem;
+            font-size: 1.5rem;
+            max-width: 300px;
+        }
+    }

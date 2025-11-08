@@ -9,7 +9,13 @@
   },
   "favicon": "/bhte_icon.svg",
   "navigation": {
-    "pages": ["pages/home", "pages/services", "pages/about", "pages/contact"],
+    "pages": [
+      "pages/home",
+      "pages/services",
+      "pages/warehouses",
+      "pages/about",
+      "pages/contact"
+    ],
 
     "global": {
       "anchors": []
